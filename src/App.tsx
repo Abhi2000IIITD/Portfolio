@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Mail, Phone, Linkedin, Github, Download, ExternalLink, GraduationCap, User, Briefcase, Target, BookOpen, ChevronDown, Star, Code, Zap } from 'lucide-react';
-import profileImg from './profile.JPG';
+import profileImg from './profile.jpg';
 import demoVideo from './doctorhuntdemovideo.mp4';
 import interviewDostDemo from './interviewdostdemovideo.mp4';
 
